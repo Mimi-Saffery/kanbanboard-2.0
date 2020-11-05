@@ -29,11 +29,11 @@
     "sequelize": "^6.3.5"
   },
   "engines": {
-    "node": "14",
-    "npm": "6"
+    "node": "15",
+    "npm": "7"
   },
   "devDependencies": {
-    "sqlite3": "^5.0.0",
-    "nodemon": "^2.0.6"
+    "nodemon": "^2.0.6",
+    "sqlite3": "^5.0.0"
   }
 }
